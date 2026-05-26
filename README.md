@@ -1,7 +1,7 @@
-### Refactoring to unit testes
+### Refactoring to unit tests
 
-### Updating a legacy application
-### Technologies used
+## Updating a legacy application
+## Technologies used
 
 <table>
   <tr>
