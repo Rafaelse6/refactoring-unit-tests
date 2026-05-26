@@ -1,6 +1,6 @@
 using Store.Domain.Commands.Interfaces;
 
-namespace Store.Doma.Commmands.Interfaces
+namespace Store.Domain.Commmands.Interfaces
 {
     public class GenericCommandResult : ICommandResult
     {
